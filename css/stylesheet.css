@@ -9,6 +9,10 @@ body {
     border-radius: 6px;
 }
 
+.footerP {
+    font-size: 15px;
+}
+
 .btn-m {
     padding: 10px 20px;
     font-size: 19px;
